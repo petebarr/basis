@@ -4,6 +4,12 @@ This is a basic setup for a project. The setup includes an assets folder structu
 
 ## Installation
 
+Make sure to run this first to set up environment:
+
+```
+nvm use v10
+```
+
 To get started you must ensure that you have **gulp** and **jshint** installed globally. If not you can install them by calling the following in your terminal:
 
 ```
